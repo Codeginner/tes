@@ -1,0 +1,13 @@
+[tool.poetry]
+name = "tes"
+version = "0.1.0"
+description = "A sample Python project"
+authors = ["dynames <muslihgilman2@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flask = "^2.2.3"
+pytest = "^7.3.1"
+
+[tool.poetry.dev-dependencies]
+black = "^23.1"
