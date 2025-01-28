@@ -11,3 +11,4 @@ def kid(name):
 kid("emil")
 kid("tobias")
 kid("setsf")
+kid("dynamec")
